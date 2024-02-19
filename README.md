@@ -1,3 +1,6 @@
+[![LeetCode user n8creator](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fn8creator&logo=leetcode&logoColor=yellow)](https://leetcode.com/n8creator/)
+[![LeetCode user n8creator](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedPercentage&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fn8creator&logo=leetcode&logoColor=yellow)](https://leetcode.com/n8creator/)
+
 # Leetcode Problems Solving
 
 ## 1. Полезные ссылки с LeetCode.com
@@ -18,7 +21,7 @@
 ## 3. Полезные ссылки
 
 - [LeetCode Anki Flashcards (GitHub.com)](https://github.com/blablatdinov/leetcode-anki)
-- [Yandex Interview Kit (Google Docs)](https://docs.google.com/spreadsheets/d/1vgoyVzOqueURT7jNXuoEec5dQnIdtUCEqVPX1x0Vx6A/edit#gid=0) - список LeetCode задач от Яндекса
+- [Yandex Interview Kit (Google Docs)](https://docs.google.com/spreadsheets/d/1vgoyVzOqueURT7jNXuoEec5dQnIdtUCEqVPX1x0Vx6A/edit#gid=0) - список задач LeetCode от Яндекса
 
 
 ## 4. Решение LeetCode задач (видосы)
@@ -84,7 +87,8 @@ tree:
 - [ ] https://leetcode.com/problems/path-sum-ii/
 
 greedy problems:
-- [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+- [x] https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 - [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 - [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
 - [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
